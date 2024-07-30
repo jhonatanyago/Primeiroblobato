@@ -3,9 +3,9 @@
     padding: 0%;
 }
 body{
-    background: linear-gradient(to right,#f70101, #ff0000, #ffffff, #ffffff);
+    background: linear-gradient(to right,#f70101, #ff0000, #080808, #000000);
 }
 .cabecalho{
-    background-color: rgb(255, 0, 0);
+    background-color: rgb(255, 255, 255);
     padding: 30px;
 }
