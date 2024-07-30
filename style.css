@@ -2,5 +2,5 @@ body{
     background: linear-gradient(to right,#050C9C, #3572EF, #3ABEF9, #A7E6FF);
 }
 .cabecalho{
-    background-color: aqua;
+    background-color: rgb(255, 0, 0);
 }
