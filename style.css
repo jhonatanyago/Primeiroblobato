@@ -8,4 +8,5 @@ body{
 .cabecalho{
     background-color: rgb(255, 255, 255);
     padding: 30px;
+    text-align: center;
 }
