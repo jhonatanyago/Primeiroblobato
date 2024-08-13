@@ -6,7 +6,7 @@ body{
     background: linear-gradient(to right,#f8df00, #fffb00, #ff9900, #fa7a02);
 }
 .cabecalho{
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(255, 238, 0);
     padding: 30px;
     text-align: center;
     display: flex;
